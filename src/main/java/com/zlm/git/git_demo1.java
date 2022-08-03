@@ -4,5 +4,6 @@ public class git_demo1 {
     public static void main(String[] args) {
         System.out.println("hello,get!");
         System.out.println("hello,get2!");
+        System.out.println("hello,get3!");
     }
 }
